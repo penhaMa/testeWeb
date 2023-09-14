@@ -1,0 +1,17 @@
+C:\Users\penha\source\repos\testeWeb\testeWeb\bin\Debug\testeWeb.exe.config
+C:\Users\penha\source\repos\testeWeb\testeWeb\bin\Debug\testeWeb.exe
+C:\Users\penha\source\repos\testeWeb\testeWeb\bin\Debug\testeWeb.pdb
+C:\Users\penha\source\repos\testeWeb\testeWeb\bin\Debug\AForge.dll
+C:\Users\penha\source\repos\testeWeb\testeWeb\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\penha\source\repos\testeWeb\testeWeb\bin\Debug\AForge.Video.dll
+C:\Users\penha\source\repos\testeWeb\testeWeb\bin\Debug\AForge.xml
+C:\Users\penha\source\repos\testeWeb\testeWeb\bin\Debug\AForge.Video.xml
+C:\Users\penha\source\repos\testeWeb\testeWeb\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\penha\source\repos\testeWeb\testeWeb\obj\Debug\testeWeb.csproj.AssemblyReference.cache
+C:\Users\penha\source\repos\testeWeb\testeWeb\obj\Debug\testeWeb.WebCam.resources
+C:\Users\penha\source\repos\testeWeb\testeWeb\obj\Debug\testeWeb.Properties.Resources.resources
+C:\Users\penha\source\repos\testeWeb\testeWeb\obj\Debug\testeWeb.csproj.GenerateResource.cache
+C:\Users\penha\source\repos\testeWeb\testeWeb\obj\Debug\testeWeb.csproj.CoreCompileInputs.cache
+C:\Users\penha\source\repos\testeWeb\testeWeb\obj\Debug\testeWeb.csproj.CopyComplete
+C:\Users\penha\source\repos\testeWeb\testeWeb\obj\Debug\testeWeb.exe
+C:\Users\penha\source\repos\testeWeb\testeWeb\obj\Debug\testeWeb.pdb
